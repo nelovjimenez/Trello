@@ -1,0 +1,27 @@
+
+
+.kanban{
+    display:inline-flex;
+    width: 100%;
+    height: auto;
+}
+
+.inicio{
+    background-color: aqua;
+    width: 33%;
+    height: 200px;
+    margin-right: 10px;
+  
+}
+.progreso{
+    background-color: blue;
+    width: 33%;
+    height: 200px;
+    margin-right: 10px;
+}
+
+.terminado{
+    background-color: blueviolet;
+    width: 33%;
+    height: 200px;
+}
